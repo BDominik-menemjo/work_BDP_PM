@@ -1,0 +1,36 @@
+#zaszlo{
+    display: flex;
+    justify-content: center;
+}
+
+#zaszlo > div{
+    margin: 10px;
+    line-height: 75px;
+}
+
+body{
+    background-color: #E0E0E0;
+    font-family: Arial;
+    color: #660000;
+}
+
+#figyelem{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+#figyelem > div{
+    line-height: normal;
+}
+
+#achtung{
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+#text{
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 50px;
+}
